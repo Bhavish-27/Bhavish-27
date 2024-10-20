@@ -7,11 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Model and Application Developer Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhavish-27](https://github.com/Bhavish-27)
+- 👨‍💻 All of my projects are available at [GitHub/Bhavish-27](https://github.com/Bhavish-27)
 
 - 📫 How to reach me **bhavishreddy23@gmail.com**
 
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/16Nf4V0rw7gPzHhQmRpaq8yTkj0QtqGFU/view?usp=sharing))
+- 📄 Know about my experiences [Check this out](https://drive.google.com/file/d/16Nf4V0rw7gPzHhQmRpaq8yTkj0QtqGFU/view?usp=sharing)
+
+- 📄 Explore My Work [Portfolio of Work](https://portfolio-bhavish27.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
