@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhavishreddy23@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/176EQHvF1cCjXMT7MQ666Bg1cGnPK7-n6/view?usp=sharing)]
+- 📄 Know about my experiences (https://drive.google.com/file/d/176EQHvF1cCjXMT7MQ666Bg1cGnPK7-n6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
