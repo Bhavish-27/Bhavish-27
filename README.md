@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhavishreddy23@gmail.com**
 
-- 📄 Know about my experiences [Check this out](https://drive.google.com/file/d/16Nf4V0rw7gPzHhQmRpaq8yTkj0QtqGFU/view?usp=sharing)
+- 📄 Know about my experiences [Career profile](https://drive.google.com/file/d/16Nf4V0rw7gPzHhQmRpaq8yTkj0QtqGFU/view?usp=sharing)
 
 - 📄 Explore My Work [Portfolio of Work](https://portfolio-bhavish27.netlify.app/)
 
